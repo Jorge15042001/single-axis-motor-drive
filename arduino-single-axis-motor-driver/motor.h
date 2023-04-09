@@ -15,12 +15,16 @@ struct Motor{
   double steps_per_mm;
   // transformacion constant used for transforming steps to mm
   double mm_per_step;
+  // transformacion constant used for transforming rev to steps
+  double steps_per_rev;
+  // transformacion constant used for transforming steps to rev
+  double rev_per_step;
   // current position of the motor in steps, steps from home
   long pos_steps;
 
   Motor()=default;
   //parametrized constructor
-  Motor(const int safe_stop_pin, const int step_pin, const int dir_pin, const double steps_per_mm);
+  Motor(const int safe_stop_pin, const int step_pin, const int dir_pin, const double steps_per_mm, const double steps_per_rev);
   // computes the number of steps from mm
   long computeSteps(const double mm);
   // computes the number of mm from steps

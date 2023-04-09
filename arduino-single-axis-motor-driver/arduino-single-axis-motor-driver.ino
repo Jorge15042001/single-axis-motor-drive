@@ -1,5 +1,7 @@
 #include "motor-structs.h"
 #include "motor.h"
+#include "communication.h"
+#include "constants.h"
 
 Motor motor;// instance of motor
 
@@ -16,11 +18,58 @@ MotorResponse processMotorMessage(Motor& mtr, const MotorMessage& message){
     }
 
   }
+
+/* MotorSetupMessage parseConfigMessage(){ */
+/*   String msg = com::readline(); */
+/*   MotorSetupMessage ms; */
+/*    */
+/*   //read steps_per_mm */
+/*   int st_pos = 0; */
+/*   int end_pos = msg.indexOf(';'); */
+/*   const String steps_per_mm_str = msg.substring(st_pos, end_pos); */
+/*   const double steps_per_mm = steps_per_mm_str.toDouble(); */
+/*  */
+/*   // remove ';' from msg */
+/*   msg.setCharAt(end_pos,' '); */
+/*  */
+/*   //read steps_per_degree */
+/*   st_pos = end_pos+1; */
+/*   end_pos = msg.indexOf(';'); */
+/*   const String steps_per_rev_str = msg.substring(st_pos, end_pos); */
+/*   const double steps_per_rev = steps_per_rev_str.toDouble(); */
+/*  */
+/*  */
+/*  */
+/*   return MotorSetupMessage {steps_per_mm, steps_per_rev} */
+/*  */
+/*   } */
+/*  */
+
+MotorMessage getMessage(){
+  const String messgeType = comm::readline();
+  //message type is just one char
+  const char typeChar = messgeType[0];
+  switch(typeChar){
+    case '0':{
+      /* const MotorSetupMessage ms = parseConfigMessage(); */
+      
+
+      };
+    default: ;
+
+  }
+
+}
 void setup() {
   Serial.begin(115200);
-  MotorSetupMessage msm;
-  Serial.readBytes((byte*)&msm,sizeof(msm));
-  motor = Motor(msm.safe_stop_pin,msm.step_pin,msm.dir_pin,msm.steps_per_mm);
+  delay(5000);
+  Serial.println("Creating motor");
+
+  /* MotorSetupMessage msm; */
+
+  /* Serial.readBytes((byte*)&msm,sizeof(msm)); */
+  motor = Motor(safe_stop_pin_1, step_pin, direction_pin, steps_per_mm, steps_per_rev);
+  Serial.println("Motor homed");
 }
 
 //this loop repeats once per request

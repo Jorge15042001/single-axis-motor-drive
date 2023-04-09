@@ -4,10 +4,11 @@
 
 
 enum MotorMode{
-  HOME_MODE = 0,
-  STEP_MODE = 1,
-  CONTINOUS_MODE = 2,
-  END_MODE = 3
+  CONFIG_MODE =0,
+  HOME_MODE = 1,
+  STEP_MODE = 2,
+  CONTINOUS_MODE = 3,
+  END_MODE = 4
   };
 enum MovementUnit{
   mm = 1,
@@ -22,10 +23,9 @@ struct MotorMessage{
   double movement_mag_end;
 };
 struct MotorSetupMessage{
-  int safe_stop_pin;
-  int step_pin;
-  int dir_pin;
+  //TODO: separeta safe stop pins
   double steps_per_mm;
+  double steps_per_degree;
 };
 
 struct MotorResponse{
