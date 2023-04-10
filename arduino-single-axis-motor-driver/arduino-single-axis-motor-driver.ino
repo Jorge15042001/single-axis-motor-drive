@@ -9,76 +9,30 @@ MotorResponse processMotorMessage(Motor& mtr, const MotorMessage& message){
   if (message.movement_mode == MotorMode::HOME_MODE){
     return mtr.goHome();
     }
-  if (message.movement_mode == MotorMode::CONTINOUS_MODE){
-    const MotorResponse mr1 = mtr.goToPosition(message.movement_mag_start,message.speed,message.movement_unit);
-    //notifi start position
-    if (!mr1.success) {return mr1;}
-    const MotorResponse mr2 = mtr.goToPosition(message.movement_mag_end,message.speed,message.movement_unit);
-    return {mr2};
+  if (message.movement_mode == MotorMode::ABSOLUTE){
+    return mtr.goToPosition(message.mag,message.speed,message.movement_unit);
+    }
+
+  if (message.movement_mode == MotorMode::RELATIVE){
+
+    return  mtr.relativeMove(message.mag,message.speed, message.movement_unit);
     }
 
   }
 
-/* MotorSetupMessage parseConfigMessage(){ */
-/*   String msg = com::readline(); */
-/*   MotorSetupMessage ms; */
-/*    */
-/*   //read steps_per_mm */
-/*   int st_pos = 0; */
-/*   int end_pos = msg.indexOf(';'); */
-/*   const String steps_per_mm_str = msg.substring(st_pos, end_pos); */
-/*   const double steps_per_mm = steps_per_mm_str.toDouble(); */
-/*  */
-/*   // remove ';' from msg */
-/*   msg.setCharAt(end_pos,' '); */
-/*  */
-/*   //read steps_per_degree */
-/*   st_pos = end_pos+1; */
-/*   end_pos = msg.indexOf(';'); */
-/*   const String steps_per_rev_str = msg.substring(st_pos, end_pos); */
-/*   const double steps_per_rev = steps_per_rev_str.toDouble(); */
-/*  */
-/*  */
-/*  */
-/*   return MotorSetupMessage {steps_per_mm, steps_per_rev} */
-/*  */
-/*   } */
-/*  */
-
-MotorMessage getMessage(){
-  const String messgeType = comm::readline();
-  //message type is just one char
-  const char typeChar = messgeType[0];
-  switch(typeChar){
-    case '0':{
-      /* const MotorSetupMessage ms = parseConfigMessage(); */
-      
-
-      };
-    default: ;
-
-  }
-
-}
 void setup() {
-  Serial.begin(115200);
-  delay(5000);
-  Serial.println("Creating motor");
+  Serial.begin(2e6);
+  delay(2000);
 
-  /* MotorSetupMessage msm; */
+  motor = Motor(safe_stop_pin_1,safe_stop_pin_2, step_pin, direction_pin, steps_per_mm, steps_per_rev);
 
-  /* Serial.readBytes((byte*)&msm,sizeof(msm)); */
-  motor = Motor(safe_stop_pin_1, step_pin, direction_pin, steps_per_mm, steps_per_rev);
-  Serial.println("Motor homed");
 }
 
 //this loop repeats once per request
 void loop() {
-  
   if (Serial.available()<=0)return;
-    
-  MotorMessage m;
-  Serial.readBytes((byte*)&m,sizeof(m));
+
+  const MotorMessage m = comm::readMessage();
   MotorResponse mr = processMotorMessage(motor,m);
-  Serial.write((byte*)&mr,sizeof(mr));
+  comm::writeMessage(mr);
 }

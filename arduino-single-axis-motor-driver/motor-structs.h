@@ -4,23 +4,26 @@
 
 
 enum MotorMode{
-  CONFIG_MODE =0,
   HOME_MODE = 1,
-  STEP_MODE = 2,
-  CONTINOUS_MODE = 3,
-  END_MODE = 4
+  RELATIVE = 2,
+  ABSOLUTE = 3,
   };
 enum MovementUnit{
   mm = 1,
-  step = 2
+  step = 2,
+  rev = 3
   };
+// enum MovementType{
+//   relative= 1,
+//   absolute = 2
+// };
 
 struct MotorMessage{
   MotorMode movement_mode;
+  // MovementType movement_type;
   MovementUnit movement_unit;
   double speed;//mm/s or step/s depending on movement_unit
-  double movement_mag_start;
-  double movement_mag_end;
+  double mag;
 };
 struct MotorSetupMessage{
   //TODO: separeta safe stop pins
@@ -32,6 +35,7 @@ struct MotorResponse{
   boolean success;
   unsigned long current_step_pos ;
   double current_mm_pos ;
+  double current_rev_pos ;
 };
 
 #endif // !Motro_structs_h 

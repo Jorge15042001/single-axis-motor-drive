@@ -9,6 +9,6 @@ static const int step_pin = 4;
 
 
 static const double steps_per_mm = 1.;
-static const double steps_per_rev = 8.;
+static const double steps_per_rev = 3200;
 
 #endif // !constants_h
