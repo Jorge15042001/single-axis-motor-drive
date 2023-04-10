@@ -1,6 +1,9 @@
 #ifndef Motro_structs_h 
 #define Motro_structs_h 
+
+#ifdef arduino_cc
 #include "Arduino.h"
+#endif
 
 
 enum MotorMode{
@@ -32,7 +35,7 @@ struct MotorSetupMessage{
 };
 
 struct MotorResponse{
-  boolean success;
+  bool success;
   unsigned long current_step_pos ;
   double current_mm_pos ;
   double current_rev_pos ;
