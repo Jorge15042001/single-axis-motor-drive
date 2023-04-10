@@ -1,7 +1,7 @@
 #ifndef Motro_structs_h 
 #define Motro_structs_h 
 
-#ifdef arduino_cc
+#ifndef CPP
 #include "Arduino.h"
 #endif
 
