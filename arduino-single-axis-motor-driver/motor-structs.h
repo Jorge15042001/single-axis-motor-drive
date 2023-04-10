@@ -1,10 +1,6 @@
 #ifndef Motro_structs_h 
 #define Motro_structs_h 
 
-#ifndef CPP
-#include "Arduino.h"
-#endif
-
 
 enum MotorMode{
   HOME_MODE = 1,
