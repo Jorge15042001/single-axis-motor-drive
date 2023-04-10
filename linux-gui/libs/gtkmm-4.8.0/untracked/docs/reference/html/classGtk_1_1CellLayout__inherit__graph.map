@@ -1,0 +1,15 @@
+<map id="Gtk::CellLayout" name="Gtk::CellLayout">
+<area shape="rect" id="node1" title="An interface for packing cells." alt="" coords="676,132,799,159"/>
+<area shape="rect" id="node6" href="$classGtk_1_1CellArea.html" title="An abstract base class for laying out CellRenderers." alt="" coords="874,5,982,32"/>
+<area shape="rect" id="node8" href="$classGtk_1_1CellView.html" title="A widget displaying a single row of a TreeModel." alt="" coords="873,56,983,83"/>
+<area shape="rect" id="node9" href="$classGtk_1_1ComboBox.html" title="A widget used to choose from a list of items." alt="" coords="866,107,990,133"/>
+<area shape="rect" id="node11" href="$classGtk_1_1EntryCompletion.html" title="Completion functionality for Gtk::Entry." alt="" coords="847,157,1009,184"/>
+<area shape="rect" id="node12" href="$classGtk_1_1IconView.html" title="The IconView provides an alternative view of a list model." alt="" coords="872,208,984,235"/>
+<area shape="rect" id="node13" href="$classGtk_1_1TreeViewColumn.html" title="Typedefed as Gtk::TreeView::Column." alt="" coords="847,259,1009,285"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="513,132,628,159"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="335,132,465,159"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="171,132,287,159"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="5,132,123,159"/>
+<area shape="rect" id="node7" href="$classGtk_1_1CellAreaBox.html" title="A cell area that renders CellRenderers into a row or a colum, depending on its orientation." alt="" coords="1066,5,1199,32"/>
+<area shape="rect" id="node10" href="$classGtk_1_1ComboBoxText.html" title="This is a simple variant of ComboBox that hides the model&#45;view complexity for simple text&#45;only use ca..." alt="" coords="1057,107,1208,133"/>
+</map>

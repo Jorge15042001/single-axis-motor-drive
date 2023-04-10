@@ -1,0 +1,13 @@
+<map id="Gtk::Filter" name="Gtk::Filter">
+<area shape="rect" id="node1" title="Filtering items." alt="" coords="225,304,311,331"/>
+<area shape="rect" id="node6" href="$classGtk_1_1BoolFilter.html" title="Filtering by boolean expressions." alt="" coords="5,379,120,405"/>
+<area shape="rect" id="node7" href="$classGtk_1_1FileFilter.html" title="A filter for selecting a file subset." alt="" coords="144,379,253,405"/>
+<area shape="rect" id="node8" href="$classGtk_1_1MultiFilter.html" title="Combining multiple filters." alt="" coords="278,379,397,405"/>
+<area shape="rect" id="node11" href="$classGtk_1_1StringFilter.html" title="Filtering by strings." alt="" coords="421,379,545,405"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="219,229,317,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="203,155,333,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="210,80,326,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="209,5,327,32"/>
+<area shape="rect" id="node9" href="$classGtk_1_1AnyFilter.html" title="Matches when at least one filter matches." alt="" coords="211,453,322,480"/>
+<area shape="rect" id="node10" href="$classGtk_1_1EveryFilter.html" title="Matches when each of its filter matches." alt="" coords="347,453,469,480"/>
+</map>

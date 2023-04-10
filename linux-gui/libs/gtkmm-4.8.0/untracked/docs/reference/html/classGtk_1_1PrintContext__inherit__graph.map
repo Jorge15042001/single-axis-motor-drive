@@ -1,0 +1,7 @@
+<map id="Gtk::PrintContext" name="Gtk::PrintContext">
+<area shape="rect" id="node1" title="A PrintContext encapsulates context information that is required when drawing pages for printing,..." alt="" coords="5,304,140,331"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="23,229,122,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="7,155,138,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="15,80,131,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="14,5,131,32"/>
+</map>

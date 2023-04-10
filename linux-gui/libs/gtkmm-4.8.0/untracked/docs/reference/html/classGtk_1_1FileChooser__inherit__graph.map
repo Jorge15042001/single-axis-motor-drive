@@ -1,0 +1,10 @@
+<map id="Gtk::FileChooser" name="Gtk::FileChooser">
+<area shape="rect" id="node1" title="File chooser interface used by Gtk::FileChooserWidget and Gtk::FileChooserDialog." alt="" coords="222,304,351,331"/>
+<area shape="rect" id="node6" href="$classGtk_1_1FileChooserDialog.html" title="Convenient file chooser window." alt="" coords="5,379,176,405"/>
+<area shape="rect" id="node7" href="$classGtk_1_1FileChooserNative.html" title="A native file chooser dialog, suitable for “File/Open” or “File/Save” commands." alt="" coords="201,379,373,405"/>
+<area shape="rect" id="node8" href="$classGtk_1_1FileChooserWidget.html" title="File chooser widget that can be embedded in other widgets." alt="" coords="397,379,571,405"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="229,229,344,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="221,155,352,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="229,80,345,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="228,5,345,32"/>
+</map>

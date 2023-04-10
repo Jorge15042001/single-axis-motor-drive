@@ -1,0 +1,7 @@
+<map id="Gtk::TextChildAnchor" name="Gtk::TextChildAnchor">
+<area shape="rect" id="node1" title="A TextChildAnchor is a spot in the buffer where child widgets can be &quot;anchored&quot; (inserted inline,..." alt="" coords="5,304,164,331"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="35,229,134,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="19,155,150,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="27,80,143,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="26,5,143,32"/>
+</map>

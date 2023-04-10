@@ -1,0 +1,10 @@
+<map id="Gdk::DragSurfaceImpl" name="Gdk::DragSurfaceImpl">
+<area shape="rect" id="node1" title="Gdk::DragSurfaceImpl is a Gdk::Surface that implements the Gdk::DragSurface interface." alt="" coords="63,379,228,405"/>
+<area shape="rect" id="node2" href="$classGdk_1_1DragSurface.html" title="Interface for drag surface surfaces." alt="" coords="5,304,141,331"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="23,229,137,256"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="80,155,211,181"/>
+<area shape="rect" id="node8" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="165,229,264,256"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="87,80,203,107"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="87,5,204,32"/>
+<area shape="rect" id="node7" href="$classGdk_1_1Surface.html" title="Onscreen display areas in the target window system." alt="" coords="166,304,271,331"/>
+</map>

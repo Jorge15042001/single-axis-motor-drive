@@ -1,0 +1,8 @@
+<map id="Gtk::MnemonicAction" name="Gtk::MnemonicAction">
+<area shape="rect" id="node1" title="A Gtk::ShortcutAction that calls Gtk::Widget::mnemonic_activate()." alt="" coords="5,379,168,405"/>
+<area shape="rect" id="node2" href="$classGtk_1_1ShortcutAction.html" title="Tracking if shortcuts should be activated." alt="" coords="13,304,161,331"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="37,229,136,256"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="21,155,152,181"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="29,80,145,107"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="28,5,145,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Gtk::Sorter" name="Gtk::Sorter">
+<area shape="rect" id="node1" title="Sorting items." alt="" coords="198,304,290,331"/>
+<area shape="rect" id="node6" href="$classGtk_1_1MultiSorter.html" title="Combining multiple sorters." alt="" coords="5,379,131,405"/>
+<area shape="rect" id="node7" href="$classGtk_1_1NumericSorterBase.html" title="Base class for Gtk::NumericSorter." alt="" coords="155,379,333,405"/>
+<area shape="rect" id="node9" href="$classGtk_1_1StringSorter.html" title="Sort by comparing strings." alt="" coords="357,379,488,405"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="195,229,293,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="179,155,309,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="186,80,302,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="185,5,303,32"/>
+<area shape="rect" id="node8" href="$classGtk_1_1NumericSorter.html" title="Sort by comparing numbers." alt="" coords="151,453,337,480"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Gtk::CellRenderer" name="Gtk::CellRenderer">
+<area shape="rect" id="node1" title="CellRenderers are used by Gtk::TreeView columns to render the Gtk::TreeModel column data appropriatel..." alt="" coords="803,107,940,133"/>
+<area shape="rect" id="node7" href="$classGtk_1_1CellRendererPixbuf.html" title="Renders a pixbuf in a cell." alt="" coords="995,5,1174,32"/>
+<area shape="rect" id="node8" href="$classGtk_1_1CellRendererProgress.html" title="Renders numbers as progress bars." alt="" coords="988,56,1181,83"/>
+<area shape="rect" id="node9" href="$classGtk_1_1CellRendererSpinner.html" title="Renders a spinning animation in a cell." alt="" coords="991,107,1178,133"/>
+<area shape="rect" id="node10" href="$classGtk_1_1CellRendererText.html" title="Renders text in a cell." alt="" coords="1003,157,1167,184"/>
+<area shape="rect" id="node14" href="$classGtk_1_1CellRendererToggle.html" title="Renders a toggle button in a cell." alt="" coords="995,208,1174,235"/>
+<area shape="rect" id="node2" href="$classGtk_1_1Object.html" title="Gtk::Object is the base class for all widgets, and for a few non&#45;widget objects such as Gtk::CellRend..." alt="" coords="660,107,755,133"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="513,107,612,133"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="335,107,465,133"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="171,107,287,133"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="5,107,123,133"/>
+<area shape="rect" id="node11" href="$classGtk_1_1CellRendererAccel.html" title="Renders a keyboard accelerator in a cell." alt="" coords="1235,107,1407,133"/>
+<area shape="rect" id="node12" href="$classGtk_1_1CellRendererCombo.html" title="Renders a combobox in a cell." alt="" coords="1229,157,1412,184"/>
+<area shape="rect" id="node13" href="$classGtk_1_1CellRendererSpin.html" title="Renders a spin button in a cell." alt="" coords="1238,208,1403,235"/>
+</map>

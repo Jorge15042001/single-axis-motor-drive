@@ -1,0 +1,8 @@
+<map id="Gtk::EventControllerFocus" name="Gtk::EventControllerFocus">
+<area shape="rect" id="node1" title="Event controller for focus." alt="" coords="5,379,196,405"/>
+<area shape="rect" id="node2" href="$classGtk_1_1EventController.html" title="Self&#45;contained handler of series of events." alt="" coords="23,304,178,331"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="51,229,150,256"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="35,155,166,181"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="43,80,159,107"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="42,5,159,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Gtk::TreeViewColumn" name="Gtk::TreeViewColumn">
+<area shape="rect" id="node1" title="Typedefed as Gtk::TreeView::Column." alt="" coords="105,379,268,405"/>
+<area shape="rect" id="node2" href="$classGtk_1_1Object.html" title="Gtk::Object is the base class for all widgets, and for a few non&#45;widget objects such as Gtk::CellRend..." alt="" coords="6,304,101,331"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="5,229,104,256"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="55,155,185,181"/>
+<area shape="rect" id="node8" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="129,229,244,256"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="62,80,178,107"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="61,5,179,32"/>
+<area shape="rect" id="node7" href="$classGtk_1_1CellLayout.html" title="An interface for packing cells." alt="" coords="125,304,248,331"/>
+<area shape="rect" id="node9" href="$classGtk_1_1Buildable.html" title="A base class for objects that can be built by Gtk::Builder." alt="" coords="272,304,387,331"/>
+</map>

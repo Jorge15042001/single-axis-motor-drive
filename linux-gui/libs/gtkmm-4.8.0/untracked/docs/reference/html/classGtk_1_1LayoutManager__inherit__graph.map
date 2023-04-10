@@ -1,0 +1,12 @@
+<map id="Gtk::LayoutManager" name="Gtk::LayoutManager">
+<area shape="rect" id="node1" title="Base class for layout manager." alt="" coords="660,107,815,133"/>
+<area shape="rect" id="node6" href="$classGtk_1_1BinLayout.html" title="A layout manager for bin&#45;like widgets." alt="" coords="885,5,1004,32"/>
+<area shape="rect" id="node7" href="$classGtk_1_1BoxLayout.html" title="Layout manager for placing all children in a single row or column." alt="" coords="883,56,1006,83"/>
+<area shape="rect" id="node8" href="$classGtk_1_1CenterLayout.html" title="A centering layout." alt="" coords="875,107,1015,133"/>
+<area shape="rect" id="node9" href="$classGtk_1_1ConstraintLayout.html" title="A layout manager using constraints." alt="" coords="863,157,1027,184"/>
+<area shape="rect" id="node10" href="$classGtk_1_1GridLayout.html" title="Layout manager for grid&#45;like widgets." alt="" coords="883,208,1007,235"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="513,107,612,133"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="335,107,465,133"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="171,107,287,133"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="5,107,123,133"/>
+</map>

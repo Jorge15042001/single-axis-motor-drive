@@ -1,0 +1,11 @@
+<map id="Gtk::ShortcutTrigger" name="Gtk::ShortcutTrigger">
+<area shape="rect" id="node1" title="Triggers to track if shortcuts should be activated." alt="" coords="283,304,433,331"/>
+<area shape="rect" id="node6" href="$classGtk_1_1AlternativeTrigger.html" title="A Gtk::ShortcutTrigger that triggers when either of two ShortcutTriggers trigger." alt="" coords="5,379,175,405"/>
+<area shape="rect" id="node7" href="$classGtk_1_1KeyvalTrigger.html" title="A Gtk::ShortcutTrigger that triggers when a specific keyval and (optionally) modifiers are pressed." alt="" coords="199,379,341,405"/>
+<area shape="rect" id="node8" href="$classGtk_1_1MnemonicTrigger.html" title="A Gtk::ShortcutTrigger that triggers when a specific mnemonic is pressed." alt="" coords="365,379,530,405"/>
+<area shape="rect" id="node9" href="$classGtk_1_1NeverTrigger.html" title="A Gtk::ShortcutTrigger that never triggers." alt="" coords="554,379,690,405"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="309,229,407,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="293,155,423,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="300,80,416,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="299,5,417,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Gdk::Surface" name="Gdk::Surface">
+<area shape="rect" id="node1" title="Onscreen display areas in the target window system." alt="" coords="230,304,335,331"/>
+<area shape="rect" id="node6" href="$classGdk_1_1DragSurfaceImpl.html" title="Gdk::DragSurfaceImpl is a Gdk::Surface that implements the Gdk::DragSurface interface." alt="" coords="5,379,171,405"/>
+<area shape="rect" id="node7" href="$classGdk_1_1PopupSurfaceImpl.html" title="Gdk::PopupSurfaceImpl is a Gdk::Surface that implements the Gdk::Popup interface." alt="" coords="195,379,370,405"/>
+<area shape="rect" id="node8" href="$classGdk_1_1ToplevelSurfaceImpl.html" title="Gdk::ToplevelSurfaceImpl is a Gdk::Surface that implements the Gdk::Toplevel interface." alt="" coords="394,379,582,405"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="233,229,332,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="217,155,348,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="225,80,341,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="224,5,341,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Gtk::MnemonicTrigger" name="Gtk::MnemonicTrigger">
+<area shape="rect" id="node1" title="A Gtk::ShortcutTrigger that triggers when a specific mnemonic is pressed." alt="" coords="5,379,171,405"/>
+<area shape="rect" id="node2" href="$classGtk_1_1ShortcutTrigger.html" title="Triggers to track if shortcuts should be activated." alt="" coords="13,304,163,331"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="39,229,137,256"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="23,155,153,181"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="30,80,146,107"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="29,5,147,32"/>
+</map>

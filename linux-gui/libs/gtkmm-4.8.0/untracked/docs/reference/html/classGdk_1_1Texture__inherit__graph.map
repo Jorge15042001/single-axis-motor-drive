@@ -1,0 +1,11 @@
+<map id="Gdk::Texture" name="Gdk::Texture">
+<area shape="rect" id="node1" title="Pixel data." alt="" coords="95,379,199,405"/>
+<area shape="rect" id="node8" href="$classGdk_1_1GLTexture.html" title="A Gdk::Texture representing a GL texture object." alt="" coords="5,453,125,480"/>
+<area shape="rect" id="node9" href="$classGdk_1_1MemoryTexture.html" title="A Gdk::Texture representing image data in memory." alt="" coords="150,453,309,480"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="32,304,131,331"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="81,155,212,181"/>
+<area shape="rect" id="node7" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="147,229,261,256"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="89,80,205,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="88,5,205,32"/>
+<area shape="rect" id="node6" href="$classGdk_1_1Paintable.html" title="An interface for a paintable region." alt="" coords="155,304,271,331"/>
+</map>

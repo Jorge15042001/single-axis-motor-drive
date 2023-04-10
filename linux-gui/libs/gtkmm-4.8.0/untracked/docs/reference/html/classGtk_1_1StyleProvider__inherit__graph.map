@@ -1,0 +1,9 @@
+<map id="Gtk::StyleProvider" name="Gtk::StyleProvider">
+<area shape="rect" id="node1" title="Interface to provide style information to Gtk::StyleContext." alt="" coords="71,304,211,331"/>
+<area shape="rect" id="node6" href="$classGtk_1_1CssProvider.html" title="CSS&#45;like styling for widgets, implementing the StyleProvider base class." alt="" coords="5,379,136,405"/>
+<area shape="rect" id="node7" href="$classGtk_1_1Settings.html" title="Sharing settings between applications." alt="" coords="160,379,267,405"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="84,229,199,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="76,155,207,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="83,80,199,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="83,5,200,32"/>
+</map>

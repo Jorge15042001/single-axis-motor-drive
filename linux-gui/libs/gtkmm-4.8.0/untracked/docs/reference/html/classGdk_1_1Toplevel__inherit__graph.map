@@ -1,0 +1,8 @@
+<map id="Gdk::Toplevel" name="Gdk::Toplevel">
+<area shape="rect" id="node1" title="Interface for toplevel surfaces." alt="" coords="44,304,155,331"/>
+<area shape="rect" id="node6" href="$classGdk_1_1ToplevelSurfaceImpl.html" title="Gdk::ToplevelSurfaceImpl is a Gdk::Surface that implements the Gdk::Toplevel interface." alt="" coords="5,379,193,405"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="42,229,157,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="34,155,165,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="41,80,157,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="41,5,158,32"/>
+</map>

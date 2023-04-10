@@ -1,0 +1,10 @@
+<map id="Gtk::FontChooser" name="Gtk::FontChooser">
+<area shape="rect" id="node1" title="An interface implemented by widgets displaying fonts." alt="" coords="175,304,309,331"/>
+<area shape="rect" id="node6" href="$classGtk_1_1FontButton.html" title="A button to launch a font selection dialog." alt="" coords="5,379,129,405"/>
+<area shape="rect" id="node7" href="$classGtk_1_1FontChooserDialog.html" title="A dialog box for selecting fonts." alt="" coords="154,379,330,405"/>
+<area shape="rect" id="node8" href="$classGtk_1_1FontChooserWidget.html" title="A dialog box for selecting fonts." alt="" coords="355,379,535,405"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="185,229,299,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="177,155,307,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="184,80,300,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="183,5,301,32"/>
+</map>

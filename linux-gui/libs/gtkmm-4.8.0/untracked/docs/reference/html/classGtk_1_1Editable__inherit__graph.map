@@ -1,0 +1,13 @@
+<map id="Gtk::Editable" name="Gtk::Editable">
+<area shape="rect" id="node1" title="Base class for text&#45;editing widgets." alt="" coords="303,304,409,331"/>
+<area shape="rect" id="node6" href="$classGtk_1_1EditableLabel.html" title="A label that can be edited." alt="" coords="5,379,147,405"/>
+<area shape="rect" id="node7" href="$classGtk_1_1Entry.html" title="A single line text entry field." alt="" coords="171,379,258,405"/>
+<area shape="rect" id="node9" href="$classGtk_1_1PasswordEntry.html" title="An entry for secrets." alt="" coords="282,379,430,405"/>
+<area shape="rect" id="node10" href="$classGtk_1_1SpinButton.html" title="Numeric Entry with up/down buttons." alt="" coords="454,379,578,405"/>
+<area shape="rect" id="node11" href="$classGtk_1_1Text.html" title="A simple single&#45;line text entry field." alt="" coords="603,379,683,405"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="299,229,413,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="291,155,421,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="298,80,414,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="297,5,415,32"/>
+<area shape="rect" id="node8" href="$classGtk_1_1SearchEntry.html" title="This is a subclass of Gtk::Entry that has been tailored for use as a search entry." alt="" coords="149,453,280,480"/>
+</map>

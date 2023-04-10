@@ -1,0 +1,10 @@
+<map id="Gtk::AppChooser" name="Gtk::AppChooser">
+<area shape="rect" id="node1" title="Interface implemented by widgets for choosing an application." alt="" coords="226,304,357,331"/>
+<area shape="rect" id="node6" href="$classGtk_1_1AppChooserButton.html" title="A button to launch an application chooser dialog." alt="" coords="5,379,180,405"/>
+<area shape="rect" id="node7" href="$classGtk_1_1AppChooserDialog.html" title="An application chooser dialog." alt="" coords="205,379,378,405"/>
+<area shape="rect" id="node8" href="$classGtk_1_1AppChooserWidget.html" title="An application chooser widget that can be embedded in other widgets." alt="" coords="403,379,580,405"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="234,229,349,256"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="226,155,357,181"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="233,80,349,107"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="233,5,350,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Gtk::ShortcutAction" name="Gtk::ShortcutAction">
+<area shape="rect" id="node1" title="Tracking if shortcuts should be activated." alt="" coords="660,132,808,159"/>
+<area shape="rect" id="node6" href="$classGtk_1_1ActivateAction.html" title="A Gtk::ShortcutAction that calls Gtk::Widget::activate()." alt="" coords="863,5,1011,32"/>
+<area shape="rect" id="node7" href="$classGtk_1_1CallbackAction.html" title="A Gtk::ShortcutAction that invokes a callback." alt="" coords="862,56,1013,83"/>
+<area shape="rect" id="node8" href="$classGtk_1_1MnemonicAction.html" title="A Gtk::ShortcutAction that calls Gtk::Widget::mnemonic_activate()." alt="" coords="856,107,1019,133"/>
+<area shape="rect" id="node9" href="$classGtk_1_1NamedAction.html" title="A Gtk::ShortcutAction that activates an action by name." alt="" coords="867,157,1008,184"/>
+<area shape="rect" id="node10" href="$classGtk_1_1NothingAction.html" title="A Gtk::ShortcutAction that does nothing." alt="" coords="865,208,1010,235"/>
+<area shape="rect" id="node11" href="$classGtk_1_1SignalAction.html" title="A Gtk::ShortcutAction that emits a signal." alt="" coords="870,259,1005,285"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="513,132,612,159"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="335,132,465,159"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="171,132,287,159"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="5,132,123,159"/>
+</map>

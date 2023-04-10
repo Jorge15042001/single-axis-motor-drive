@@ -1,0 +1,19 @@
+<map id="Gtk::ColorChooserDialog" name="Gtk::ColorChooserDialog">
+<area shape="rect" id="node1" title="This dialog is for choosing a color." alt="" coords="575,603,757,629"/>
+<area shape="rect" id="node2" href="$classGtk_1_1Dialog.html" title="Create popup windows." alt="" coords="576,528,671,555"/>
+<area shape="rect" id="node3" href="$classGtk_1_1Window.html" title="Toplevel Window." alt="" coords="540,453,645,480"/>
+<area shape="rect" id="node4" href="$classGtk_1_1Widget.html" title="Abstract Widget (Base class for all widgets)" alt="" coords="267,379,366,405"/>
+<area shape="rect" id="node5" href="$classGtk_1_1Object.html" title="Gtk::Object is the base class for all widgets, and for a few non&#45;widget objects such as Gtk::CellRend..." alt="" coords="5,304,100,331"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="215,229,314,256"/>
+<area shape="rect" id="node7" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="265,155,395,181"/>
+<area shape="rect" id="node11" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="491,229,606,256"/>
+<area shape="rect" id="node8" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="272,80,388,107"/>
+<area shape="rect" id="node9" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="271,5,389,32"/>
+<area shape="rect" id="node10" href="$classGtk_1_1Accessible.html" title="Accessible interface." alt="" coords="125,304,247,331"/>
+<area shape="rect" id="node12" href="$classGtk_1_1Buildable.html" title="A base class for objects that can be built by Gtk::Builder." alt="" coords="271,304,386,331"/>
+<area shape="rect" id="node13" href="$classGtk_1_1ConstraintTarget.html" title="Helper interface for Gtk::Constraint." alt="" coords="410,304,570,331"/>
+<area shape="rect" id="node14" href="$classGtk_1_1Native.html" title="Interface for widgets having surfaces." alt="" coords="390,379,486,405"/>
+<area shape="rect" id="node15" href="$classGtk_1_1ShortcutManager.html" title="Interface for managing shortcuts." alt="" coords="511,379,675,405"/>
+<area shape="rect" id="node16" href="$classGtk_1_1Root.html" title="Interface for root widgets." alt="" coords="699,379,782,405"/>
+<area shape="rect" id="node17" href="$classGtk_1_1ColorChooser.html" title="This interface can be implemented by widgets which allow the user to choose a color." alt="" coords="709,453,849,480"/>
+</map>

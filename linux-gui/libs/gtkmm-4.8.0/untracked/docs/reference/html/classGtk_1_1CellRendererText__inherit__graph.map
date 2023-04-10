@@ -1,0 +1,12 @@
+<map id="Gtk::CellRendererText" name="Gtk::CellRendererText">
+<area shape="rect" id="node1" title="Renders text in a cell." alt="" coords="211,453,375,480"/>
+<area shape="rect" id="node8" href="$classGtk_1_1CellRendererAccel.html" title="Renders a keyboard accelerator in a cell." alt="" coords="5,528,177,555"/>
+<area shape="rect" id="node9" href="$classGtk_1_1CellRendererCombo.html" title="Renders a combobox in a cell." alt="" coords="201,528,384,555"/>
+<area shape="rect" id="node10" href="$classGtk_1_1CellRendererSpin.html" title="Renders a spin button in a cell." alt="" coords="409,528,574,555"/>
+<area shape="rect" id="node2" href="$classGtk_1_1CellRenderer.html" title="CellRenderers are used by Gtk::TreeView columns to render the Gtk::TreeModel column data appropriatel..." alt="" coords="224,379,361,405"/>
+<area shape="rect" id="node3" href="$classGtk_1_1Object.html" title="Gtk::Object is the base class for all widgets, and for a few non&#45;widget objects such as Gtk::CellRend..." alt="" coords="245,304,340,331"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="243,229,342,256"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="227,155,358,181"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="235,80,351,107"/>
+<area shape="rect" id="node7" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="234,5,351,32"/>
+</map>

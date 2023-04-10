@@ -1,0 +1,21 @@
+<map id="Gtk::Root" name="Gtk::Root">
+<area shape="rect" id="node1" title="Interface for root widgets." alt="" coords="676,81,759,108"/>
+<area shape="rect" id="node6" href="$classGtk_1_1DragIcon.html" title="A toplevel to use as drag icon." alt="" coords="807,56,917,83"/>
+<area shape="rect" id="node7" href="$classGtk_1_1Window.html" title="Toplevel Window." alt="" coords="809,107,915,133"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="513,81,628,108"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="335,81,465,108"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="171,81,287,108"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="5,81,123,108"/>
+<area shape="rect" id="node8" href="$classGtk_1_1AboutDialog.html" title="The AboutDialog offers a simple way to display information about a program like its logo,..." alt="" coords="988,5,1121,32"/>
+<area shape="rect" id="node9" href="$classGtk_1_1ApplicationWindow.html" title="A Gtk::Window subclass with Gtk::Application support." alt="" coords="965,56,1144,83"/>
+<area shape="rect" id="node10" href="$classGtk_1_1Assistant.html" title="A widget used to guide users through multi&#45;step operations." alt="" coords="998,107,1111,133"/>
+<area shape="rect" id="node11" href="$classGtk_1_1Dialog.html" title="Create popup windows." alt="" coords="1007,157,1102,184"/>
+<area shape="rect" id="node19" href="$classGtk_1_1ShortcutsWindow.html" title="Toplevel which shows help for shortcuts." alt="" coords="971,208,1138,235"/>
+<area shape="rect" id="node12" href="$classGtk_1_1AppChooserDialog.html" title="An application chooser dialog." alt="" coords="1202,5,1375,32"/>
+<area shape="rect" id="node13" href="$classGtk_1_1ColorChooserDialog.html" title="This dialog is for choosing a color." alt="" coords="1197,56,1380,83"/>
+<area shape="rect" id="node14" href="$classGtk_1_1FileChooserDialog.html" title="Convenient file chooser window." alt="" coords="1203,107,1374,133"/>
+<area shape="rect" id="node15" href="$classGtk_1_1FontChooserDialog.html" title="A dialog box for selecting fonts." alt="" coords="1201,157,1377,184"/>
+<area shape="rect" id="node16" href="$classGtk_1_1MessageDialog.html" title="Convenient message window." alt="" coords="1212,208,1365,235"/>
+<area shape="rect" id="node17" href="$classGtk_1_1PageSetupUnixDialog.html" title="PageSetupUnixDialog implements a page setup dialog for platforms which don&#39;t provide a native page se..." alt="" coords="1192,259,1385,285"/>
+<area shape="rect" id="node18" href="$classGtk_1_1PrintUnixDialog.html" title="PrintUnixDialog implements a print dialog for platforms which don&#39;t provide a native print dialog,..." alt="" coords="1211,309,1366,336"/>
+</map>

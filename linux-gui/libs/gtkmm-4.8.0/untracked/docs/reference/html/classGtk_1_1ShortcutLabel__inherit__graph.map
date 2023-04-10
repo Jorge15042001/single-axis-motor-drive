@@ -1,0 +1,13 @@
+<map id="Gtk::ShortcutLabel" name="Gtk::ShortcutLabel">
+<area shape="rect" id="node1" title="Displays a keyboard shortcut." alt="" coords="185,453,328,480"/>
+<area shape="rect" id="node2" href="$classGtk_1_1Widget.html" title="Abstract Widget (Base class for all widgets)" alt="" coords="207,379,306,405"/>
+<area shape="rect" id="node3" href="$classGtk_1_1Object.html" title="Gtk::Object is the base class for all widgets, and for a few non&#45;widget objects such as Gtk::CellRend..." alt="" coords="5,304,100,331"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="75,229,174,256"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="125,155,255,181"/>
+<area shape="rect" id="node9" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="199,229,314,256"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="132,80,248,107"/>
+<area shape="rect" id="node7" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="131,5,249,32"/>
+<area shape="rect" id="node8" href="$classGtk_1_1Accessible.html" title="Accessible interface." alt="" coords="125,304,247,331"/>
+<area shape="rect" id="node10" href="$classGtk_1_1Buildable.html" title="A base class for objects that can be built by Gtk::Builder." alt="" coords="271,304,386,331"/>
+<area shape="rect" id="node11" href="$classGtk_1_1ConstraintTarget.html" title="Helper interface for Gtk::Constraint." alt="" coords="410,304,570,331"/>
+</map>

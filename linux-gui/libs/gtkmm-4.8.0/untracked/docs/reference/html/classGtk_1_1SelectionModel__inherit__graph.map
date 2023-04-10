@@ -1,0 +1,11 @@
+<map id="Gtk::SelectionModel" name="Gtk::SelectionModel">
+<area shape="rect" id="node1" title="An extension of the list model interface that handles selections." alt="" coords="676,81,829,108"/>
+<area shape="rect" id="node6" href="$classGtk_1_1MultiSelection.html" title="A selection model that allows selecting multiple items." alt="" coords="907,5,1053,32"/>
+<area shape="rect" id="node7" href="$classGtk_1_1NoSelection.html" title="A selection model that does not allow selecting anything." alt="" coords="915,56,1045,83"/>
+<area shape="rect" id="node8" href="$classGtk_1_1SelectionListModelImpl.html" title="Gtk::SelectionListModelImpl is an object that implements the Gio::ListModel and Gtk::SelectionModel i..." alt="" coords="877,107,1083,133"/>
+<area shape="rect" id="node9" href="$classGtk_1_1SingleSelection.html" title="A selection model that allows selecting a single item." alt="" coords="903,157,1057,184"/>
+<area shape="rect" id="node2" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="513,81,628,108"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="335,81,465,108"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="171,81,287,108"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="5,81,123,108"/>
+</map>

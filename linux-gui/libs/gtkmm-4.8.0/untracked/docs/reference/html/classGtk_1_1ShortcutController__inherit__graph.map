@@ -1,0 +1,11 @@
+<map id="Gtk::ShortcutController" name="Gtk::ShortcutController">
+<area shape="rect" id="node1" title="Event controller for shortcuts." alt="" coords="156,379,327,405"/>
+<area shape="rect" id="node2" href="$classGtk_1_1EventController.html" title="Self&#45;contained handler of series of events." alt="" coords="5,304,160,331"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="48,229,147,256"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="97,155,228,181"/>
+<area shape="rect" id="node8" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="184,229,299,256"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="105,80,221,107"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="104,5,221,32"/>
+<area shape="rect" id="node7" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGio_1_1ListModel.html" title=" " alt="" coords="184,304,299,331"/>
+<area shape="rect" id="node9" href="$classGtk_1_1Buildable.html" title="A base class for objects that can be built by Gtk::Builder." alt="" coords="323,304,437,331"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Gdk::DeviceWithPad" name="Gdk::DeviceWithPad">
+<area shape="rect" id="node1" title="A Gdk::DeviceWithPad is a Gdk::Device that implements the Gdk::DevicePad interface." alt="" coords="47,379,201,405"/>
+<area shape="rect" id="node2" href="$classGdk_1_1Device.html" title="A Gdk::Device instance contains a detailed description of an extended input device." alt="" coords="5,304,107,331"/>
+<area shape="rect" id="node3" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Object.html" title=" " alt="" coords="9,229,108,256"/>
+<area shape="rect" id="node4" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1ObjectBase.html" title=" " alt="" coords="59,155,189,181"/>
+<area shape="rect" id="node8" href="/opt/gnome/share/doc/glibmm-2.68/reference/glibmm-2.68.tag$classGlib_1_1Interface.html" title=" " alt="" coords="133,229,248,256"/>
+<area shape="rect" id="node5" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1trackable.html" title=" " alt="" coords="66,80,182,107"/>
+<area shape="rect" id="node6" href="/opt/gnome/share/doc/libsigc++-3.0/reference/libsigc++-3.0.tag$structsigc_1_1notifiable.html" title=" " alt="" coords="65,5,183,32"/>
+<area shape="rect" id="node7" href="$classGdk_1_1DevicePad.html" title="Pad device interface." alt="" coords="131,304,255,331"/>
+</map>
